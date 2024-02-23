@@ -1,0 +1,1 @@
+Broken Object Level Auth, yetkisi olmayan verilere veya fonksiyonlara erişim.

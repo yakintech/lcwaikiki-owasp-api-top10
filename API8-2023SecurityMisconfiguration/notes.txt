@@ -1,0 +1,8 @@
+1. Varsayılan Hesaplar ve Parolalar
+Username ve password admin,admin olması gibi...
+2. Cors Policy
+ip aralığı veya sabit bir ip belirleme
+3. Error message
+Error mesajların açık olması...
+
+4. Paket yönetimi, gereksiz paketler ve güvensiz paketlerin tespiti

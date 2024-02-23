@@ -1,0 +1,2 @@
+Bir API nin nesnelelerinin özelliklerinin yetkilendirme sırasında ortaya çıkan güvenlik zaafiyetidir.
+Örneğin kullanıcının belirli özellikleri güncellemeye yetkisi olmamasına rağmen güncellemesi

@@ -1,0 +1,10 @@
+JWT
+https://assets.ctfassets.net/2ntc334xpx65/o5J4X472PQUI4ai6cAcqg/13a2611de03b2c8edbd09c3ca14ae86b/jwt-handbook-v0_14_1.pdf?mem=button&mkt_tok=ODU1LVFBSC02OTkAAAGQl-I9cK-ExA9DGvLuYIQJ5_HFsavVpbI_4SPFwmFF7tM22prF2c22eN3SsCRNaTD58WF-WoT4NfOBQrnWmKGAOP_NhCQLZUfotpT4xNDhF2B0yy-lbw
+
+OWASP TOP 10 Security
+https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+
+OWASP Türkiye Döküman
+https://www.webguvenligi.org/asvs/OWASP_Uygulama_Guvenligi_Dogrulama_Standardi_3.0.1.pdf
+
+

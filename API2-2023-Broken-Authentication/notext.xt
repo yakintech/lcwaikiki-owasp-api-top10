@@ -1,0 +1,4 @@
+Broken Auth Zaafı bir API'nin kimlik doğrulama mekanizmalarının yanlış uygulanması sonucu ortaya çıakr. 
+
+* zayıf parola politikaları
+* tokenların güvensiz saklanması

@@ -1,0 +1,4 @@
+Bağımlılıkların yönetimi ( kullanılmayan paketlerin kaldırılması)
+Konfigürasyon, .env dosyanızda gereksiz keylerin olmaması
+Tüm api urllerinin dökümante edilmesi ve 
+gereksiz url lerin kaldırılması ( swagger )

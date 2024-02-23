@@ -1,0 +1,5 @@
+Bir API uygulamasındaki yetkilendirme kontrollerinin yanlış uygulanması sonrası ortaya çıkan güvenlik zaafiyetidir.
+Kullanıcı rolüne sahip birinin yönetici işlemlerini de yapabilmesi
+
+
+* Eksik rol kontrollerinin* yanlış yapılandırılmış endpointler

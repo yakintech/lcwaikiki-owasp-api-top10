@@ -1,0 +1,8 @@
+Bir API'nin kaynaklarının ( CPU, bellek, disk alanı, bant genişliği vb.) kötü niyetli bir şekilde tüketilmesidir.
+- DDoS saldırılarıyla hizmet dışı bırakabilir.
+
+Rate Limit
+Belirli bir IP den belirli bir sürede belirli sayıda istek gelmesi
+
+Speed Limiter
+Yavaşlatma. IP başına her istekten sonra response ları yavaşlatmam!

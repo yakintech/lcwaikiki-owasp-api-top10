@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+
+    </ul>
+</body>
+<script>
+    var token = localStorage.getItem('token');
+    
+    fetch('http://localhost:3000/api/orders', {
+        method: 'GET',
+        headers: {
+            'Authorization': 'Bearer ' + token
+        }
+    }).then(response => response.json())
+    .then(data => {
+        var ul = document.querySelector('ul');
+        data.forEach(order => {
+            var li = document.createElement('li');
+            li.textContent = order.name;
+            ul.appendChild(li);
+        });
+    })
+
+</script>
+</html>
